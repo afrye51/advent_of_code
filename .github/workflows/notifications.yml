@@ -22,4 +22,4 @@ jobs:
         with:
           # Different labels go on different lines, for multiple people/groups space separate them
           recipients: |
-            CARMA Support=@CARMAsupport
+            help wanted=@CARMAsupport @afrye51
